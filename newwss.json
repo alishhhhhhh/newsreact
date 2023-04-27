@@ -1,0 +1,135 @@
+{ "status": "ok",
+"totalResults": 10,
+"articles": [
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Pilot dies in Indian army jet mid-air collision",
+        "description": "The planes were on a routine \"operational flying training mission\" when the incident happened.",
+        "url": "http://www.bbc.co.uk/news/world-asia-64437573",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14018/production/_128444918_993f5b4832c98f179f2cf10648305aa984491708.jpg",
+        "publishedAt": "2023-01-28T09:07:21.373852Z",
+        "content": "One pilot has died after two Indian Air Force fighter jets crashed in a mid-air collision in central India. \r\nThe planes were on a routine \"operational flying training mission\" when the incident happ… [+1415 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "Australian Open women's final: Build-up to Rybakina v Sabalenka",
+        "description": "Wimbledon champion Elena Rybakina faces fifth seed Aryna Sabalenka for the Australian Open women's title - follow live.",
+        "url": "http://www.bbc.co.uk/sport/live/tennis/62998398",
+        "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+        "publishedAt": "2023-01-28T08:52:21.5613776Z",
+        "content": "I think Rybakina's experience will hel. She has that first Grand Slam experience at Wimbledon to get used to the nerves, the pressure, the expectations, and to be able to deal with it.\r\nI feel she is… [+464 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "How tanks from Germany, US and UK could change the Ukraine war",
+        "description": "German Leopard 2 tanks and US M1 Abrams tanks will spearhead attacks on Russia - but is it enough?",
+        "url": "http://www.bbc.co.uk/news/world-europe-64422568",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15A39/production/_128433688_m1tank.jpg",
+        "publishedAt": "2023-01-28T07:52:16.6084667Z",
+        "content": "Is this the week when the war dramatically turned in Ukraine's favour? It was certainly a decisive moment, with a coalition of Western nations confirming they were finally willing to supply modern-ma… [+6531 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "AP deletes widely mocked tweet about ‘the’ French",
+        "description": "The news agency had warned that journalists referencing \"the French\" could be dehumanising.",
+        "url": "http://www.bbc.co.uk/news/world-europe-64436973",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10F8/production/_128444340_mediaitem128444336.jpg",
+        "publishedAt": "2023-01-28T05:37:21.9210192Z",
+        "content": "The Associated Press, the biggest news agency in the United States, has apologised after it was ridiculed for warning journalists against referring to \"the French\".\r\nThe AP stylebook Twitter account … [+721 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Tyre Nichols: Tyre Nichols cried for mother during violent arrest",
+        "description": "Footage appears to show Memphis police officers striking the 29-year-old even while he's detained.",
+        "url": "http://www.bbc.co.uk/news/live/world-us-canada-64427257",
+        "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+        "publishedAt": "2023-01-28T04:37:19.843627Z",
+        "content": "Nichols' mother at a news conference earlier on FridayImage caption: Nichols' mother at a news conference earlier on Friday\r\nPresident Biden had called the mother of Tyre Nichols just before I spoke … [+1908 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Razzies 2023: Drew Barrymore calls child actor's nomination bullying",
+        "description": "The former child actor said Ryan Keira Armstrong should never have been up for consideration.",
+        "url": "http://www.bbc.co.uk/news/entertainment-arts-64431564",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2A98/production/_128440901_gettyimages-1246152753.jpg",
+        "publishedAt": "2023-01-28T03:52:14.4840436Z",
+        "content": "Hollywood star Drew Barrymore has criticised organisers of the Razzies awards for \"bullying\" a child actor.\r\nThe parody awards, which honour the worst films and performances, caused controversy by no… [+2255 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Andrew Tate: Judge explains extended detention of 'dangerous' influencer",
+        "description": "The statement is the clearest indication yet of the evidence against the British-American influencer.",
+        "url": "http://www.bbc.co.uk/news/world-europe-64428277",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A98C/production/_128440434_tate.jpg",
+        "publishedAt": "2023-01-27T23:52:17.9520007Z",
+        "content": "A judge in Romania has described the \"particular dangerousness\" of Andrew Tate and his brother Tristan in terms of their ability to target women. He also pointed to what he called their \"capacity and… [+2674 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "US to make it easier for gay men to donate blood",
+        "description": "The FDA will soon remove a three month abstinence policy for donations for men who have sex with men.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-64433434",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B35A/production/_128441954_gettyimages-1343991775.jpg",
+        "publishedAt": "2023-01-27T23:37:22.6710505Z",
+        "content": "The Food and Drug Administration (FDA) has announced it will be changing a current three month abstinence policy for blood donations from gay men. \r\nCurrent rules only allow donations if a man has no… [+1842 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Jerusalem synagogue attack: Seven killed in shooting",
+        "description": "The victims are shot dead in a suspected militant attack at a synagogue in East Jerusalem.",
+        "url": "http://www.bbc.co.uk/news/world-middle-east-64430491",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A626/production/_128443524_gettyimages-1246597112.jpg",
+        "publishedAt": "2023-01-27T22:52:17.732928Z",
+        "content": "Seven people have been shot dead at a synagogue in East Jerusalem, the most killed in an attack of this kind for years. At least three more people were injured. \r\nThe incident happened in the city's … [+3996 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Body-cam footage shows moment of Paul Pelosi attack",
+        "description": "A US court authorised the release of video from the October 2020 assault on Nancy Pelosi's husband.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-64428041",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8CC2/production/_128443063_2701-pelosibodycam-dv-1.jpg",
+        "publishedAt": "2023-01-27T21:37:17.5309986Z",
+        "content": "Media caption, Police bodycam footage shows attack on Paul Pelosi\r\nA US court has authorised the release of footage showing the hammer attack on the husband of former House of Representatives Speaker… [+1947 chars]"
+    }
+]
+}
